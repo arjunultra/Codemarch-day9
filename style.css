@@ -1,0 +1,12 @@
+.container {
+  background-color: aqua;
+  color: brown;
+  max-width: 640px;
+  margin: 0 auto;
+}
+.title {
+  text-align: center;
+}
+.main-title {
+  text-align: center;
+}
